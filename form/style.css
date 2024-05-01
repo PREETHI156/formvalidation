@@ -1,0 +1,23 @@
+body{
+    color: black;
+    background-color: blanchedalmond;
+    }
+input{
+    border: 2px solid black;
+    border-radius: 20px;
+    
+    margin-top: 5px;
+}
+input .name{
+    margin-left: 10px;
+}
+.submit{
+    margin: auto;
+    width: 30%;
+}
+.center{
+    margin: auto;
+    width: 30%;
+    height: 30%;
+    
+}
